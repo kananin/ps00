@@ -1,0 +1,21 @@
+Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
+3/5   Nisha     16.00  16.15                                       CCIS sign up
+9/5   Nisha     10.00  10.20                         20            Download and install Racket
+9/5   Nisha     10.20  10.25                1        5             Analysis of Q1 and execution
+9/5   Nisha     10.25  10.35                2        10            Analysis of Q2 and execution
+9/5   Nisha     10.35  10.45                3        10            Analysis of Q3 and execution
+9/5   Nisha     10:45  11.02  3             4        14            Analysis of Q4 and execution
+
+
+9/5   Nisha     12:00 12:20   10            5        10            Analysis of Q5 and execution
+9/5   Nisha     12:20 12:35                 6        15            Analysis of Q6 and execution
+
+9/5   Nisha     12:35 12:40                 7         5            Analysis of Q7 and execution
+9/5   Nisha     12:40 12:58                 8        18            Analysis of Q8 and execution
+
+9/5   Nisha     12:58 01:12                 9         14           Analysis of Q9 and execution
+9/5   Nisha     01:12 01:35                 10        23           Analysis of Q10 and execution
+9/7   Nisha     09:00 09:15                           15           Github Installation                                                      
+
+====Comming on git ====     
+
